@@ -3,7 +3,7 @@
 
 - This framework cover:
 	- Data preparation for training data
-	- Data preparation for inference (production/online) data
+	- Data preparation for inference data
 	- Model training (seqential, static)
 	- Model evaluation
 
